@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="344d924c-83d1-4b81-a5aa-a6d246dcc4cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/json/accounts.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/json/accounts.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/transfer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/transfer.ejs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,12 +18,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="56" column="83" selection-start-line="56" selection-start-column="83" selection-end-line="56" selection-end-column="83" />
+            <state relative-caret-position="228">
+              <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/module4/data-js-write-json-function-body.spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-85" />
           </provider>
         </entry>
       </file>
@@ -72,26 +89,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/index.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/json/users.json">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/header.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="26" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -108,6 +107,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>should con</find>
+      <find>users</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -121,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/views/account.ejs" />
         <option value="$PROJECT_DIR$/src/views/transfer.ejs" />
         <option value="$PROJECT_DIR$/src/json/accounts.json" />
+        <option value="$PROJECT_DIR$/src/data.js" />
         <option value="$PROJECT_DIR$/src/app.js" />
       </list>
     </option>
@@ -184,7 +185,7 @@
               <item name="NodeExpress-BankingPortal" type="b2602c69:ProjectViewProjectNode" />
               <item name="NodeExpress-BankingPortal" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="module3" type="462c0819:PsiDirectoryNode" />
+              <item name="module4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -221,12 +222,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590585872823</updated>
-      <workItem from="1590585873966" duration="6637000" />
+      <workItem from="1590585873966" duration="7475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6637000" />
+    <option name="totallyTimeSpent" value="7475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
@@ -337,11 +338,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="10" column="79" selection-start-line="10" selection-start-column="79" selection-end-line="10" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="56" column="83" selection-start-line="56" selection-start-column="83" selection-end-line="56" selection-end-column="83" />
+        <state relative-caret-position="228">
+          <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/module4/data-js-write-json-function-body.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85" />
       </provider>
     </entry>
   </component>
